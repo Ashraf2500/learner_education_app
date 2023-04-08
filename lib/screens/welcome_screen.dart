@@ -71,7 +71,7 @@ class WelcomeScreen extends StatelessWidget {
             Column(
               children: [
                 const Text(
-                  "Hello",
+                  "Welcome to",
                   style: TextStyle(
                     color: Color(0xff161C2B),
                     fontSize: 32,
